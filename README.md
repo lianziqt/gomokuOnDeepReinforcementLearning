@@ -11,7 +11,7 @@ To play with model, run:
     python main_gui.py
 
 Then, you can play with you model:(You need to train your own model and mine is stupid (*^_^*))
-![board](https://github.com/lianziqt/gomokuOnDeepReinforcementLearning/blob/master/board.png)
+![board](https://github.com/lianziqt/gomokuOnDeepReinforcementLearning/blob/master/board.PNG)
 
 
-welcome to [my blog](www.balthasar.cn)for more details.
+welcome to [my blog](www.balthasar.cn) for more details.
